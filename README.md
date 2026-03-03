@@ -1,5 +1,6 @@
 # Learn about git and github
 subscribe
 
-
-console.log('Hello World');
+```c#
+console.WriteLine("Hello world!");
+```
